@@ -26,6 +26,10 @@ You can install the required library by using the command below in the Command P
 
 `pip install -q -r requirement.txt`
 
+And if you want to run our code, using the command below:
+
+`python main.py`
+
 ## Future Improvements
 * **Using neutral network to improve End Game's performance**
 * **Introduce an evaluation bar to visually represent the advantages of both approaches.**
